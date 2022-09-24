@@ -1,0 +1,2 @@
+,attribute_name,attribute_type,value,annotation,page_no,sentence_no,unique_id,word,word_list,starting_index,end_position,score,word_index
+0,Purchaser_Name_organization,global,8366 Proin,Purchaser_Name_organization,2,1,2385478,8366 Proin,"['8366', 'Proin']","[141, 146]","[144, 150]","['0.5909699', '0.8700672']","[42, 44]"
