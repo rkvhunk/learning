@@ -1,0 +1,14 @@
+model training, deep learning, micro-services, application developement in flask & django, tersorflow, keras, pytorch, docker, kubernetes, data pipeline, cicd
+
+what we did here, we extract the data from unstructed data.
+model training :
+	
+for what role?
+
+
+i have trained model in this
+i developed 
+i worked on
+
+buyout option is also there
+
